@@ -19,6 +19,7 @@ https://github.com/user-attachments/assets/03480d76-59f6-4991-a9ab-8d70332b9ca6
 
 <img width="1662" height="1470" alt="image" src="https://github.com/user-attachments/assets/3993defc-ad01-47f0-997c-fd278d172786" />
 ## Conclusion
+
 L’utilisation de Spring Boot avec @RestController facilite la création d’API RESTful grâce à la configuration automatique, l’injection de dépendances et le support natif des formats JSON et XML.
 En combinant une entité JPA, un repository et un contrôleur REST, on obtient une application claire, maintenable et facilement testable via Postman ou Curl.
 Cette approche garantit un développement rapide et une architecture propre pour des services web modernes et évolutifs.
