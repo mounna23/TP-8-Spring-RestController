@@ -18,6 +18,7 @@ https://github.com/user-attachments/assets/03480d76-59f6-4991-a9ab-8d70332b9ca6
 ### DELETE — Supprimer un compte
 
 <img width="1662" height="1470" alt="image" src="https://github.com/user-attachments/assets/3993defc-ad01-47f0-997c-fd278d172786" />
+
 ## Conclusion
 
 L’utilisation de Spring Boot avec @RestController facilite la création d’API RESTful grâce à la configuration automatique, l’injection de dépendances et le support natif des formats JSON et XML.
